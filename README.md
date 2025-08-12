@@ -8,4 +8,4 @@ This dashboard analyzes one year of preventive and corrective maintenance downti
 - Preventive maintenance, corrective maintenance
 
 ## Screenshot
-![Dashboard Preview](dashboard.png)
+![Dashboard Preview](screenshot.jpg)
